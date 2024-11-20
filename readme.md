@@ -11,3 +11,7 @@
 ## リンクの貼り方
 
 [リンク](https://www.google.com)
+
+## Branch の使い方
+
+develop で開発してみる．
